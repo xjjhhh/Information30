@@ -56,7 +56,7 @@ def hello_world():
     # redis_store.set('name','zhangsan')
     #
     # name = redis_store.get('name')
-    #
+    
     # print(name)
 
     session['name'] = 'banzhang'
